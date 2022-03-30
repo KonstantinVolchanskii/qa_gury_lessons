@@ -6,4 +6,6 @@ public class Main {
         System.out.println("Hello! QA Guru");
         System.out.println("Yep");
     }
+    public static void another()}
+        System.out.println("Another");
 }
