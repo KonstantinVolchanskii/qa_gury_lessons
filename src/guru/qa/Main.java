@@ -7,4 +7,6 @@ public class Main {
         System.out.println("Yep");
         System.out.println("Branch");
     }
+    public static void another()}
+        System.out.println("Another");
 }
