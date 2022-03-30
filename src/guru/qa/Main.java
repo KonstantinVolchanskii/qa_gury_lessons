@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Branch");
     }
     public static void another() {
-        System.out.println("Another");
+        System.out.println("ANOTHER METHOD");
     }
 }
